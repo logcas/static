@@ -1,0 +1,1 @@
+(self.webpackChunkplatform_master=self.webpackChunkplatform_master||[]).push([[808],{65431:function(c,e,a){"use strict";a.r(e);var r=a(2784),t=r.Fragment,n=function(u){var l=u.children;return r.createElement(t,null,l)};e.default=n}}]);
